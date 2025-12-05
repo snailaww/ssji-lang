@@ -3,6 +3,5 @@
 
 신재인랭은 snailaww가 만든 난해한 프로그래밍 언어입니다.
 
-- [Documentation](documentation.md)
-
-- [업데이트 로그](updates.md)
+[Documentation](documentation.md)
+[Releases](https://github.com/snailaww/ssji-lang/releases)
